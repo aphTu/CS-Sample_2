@@ -1,11 +1,11 @@
 # Reading students data and sort them
 ## Features:
 App read the student name, id, and score in specific subject
-  app can:
-    sort student in ascending order
-    show the average of each subject
-    show c++ score in descending order
-    show top three student of c++ and java
+  - app can:
+    - sort student in ascending order
+    - show the average of each subject
+    - show c++ score in descending order
+    - show top three student of c++ and java
 
 <br><br>
 
@@ -13,6 +13,8 @@ App read the student name, id, and score in specific subject
 
 <br><br>
 # Menu output:
+<pre>
+<br/><br/>
 Enter fileName1: student.txt
 Enter fileName2: score.txt
 
@@ -27,8 +29,12 @@ Enter fileName2: score.txt
 6. Exit
 
 Choose one menu (1~6):
+<br/><br/>
+</pre>
 
 # Menu 1 output:
+<pre>
+<br/><br/>
 Choose one menu (1~6): 1
 ***** Menu 1 Result *****
 -------------------------
@@ -68,8 +74,12 @@ Choose one menu (1~6): 1
 40      Ruth 89 78
 41      John 88 68
 35     Alice 80 75
+<br/><br/>
+</pre>
 
 # Menu 2 output:
+<pre>
+<br/><br/>
 Choose one menu (1~6): 2
 ***** Menu 2 Result *****
 -------------------------
@@ -110,6 +120,8 @@ Choose one menu (1~6): 2
 54    Oliver 82 95
 55       Sue 93 70
 
+<br/><br/>
+</pre>
 # Menu 3 output:
 Choose one menu (1~6): 3
 ***** Menu 3 Result *****
@@ -118,6 +130,8 @@ Average of C++: 83.00
 Average of Java: 83.33
 
 # Menu 4 output:
+<pre>
+<br/><br/>
 Choose one menu (1~6): 4
 ***** Menu 4 Result *****
 -------------------------
@@ -157,3 +171,5 @@ Choose one menu (1~6): 4
 38    Robert 70 82
 50     Sandy 69 78
  7    Eunice 66 79
+ <br/><br/>
+</pre>
