@@ -1,11 +1,11 @@
 # Reading students data and sort them
 ## Features:
 App read the student name, id, and score in specific subject
--app can:
-  -sort student in ascending order
-  -show the average of each subject
-  -show c++ score in descending order
-  -show top three student of c++ and java
+  app can:
+    sort student in ascending order
+    show the average of each subject
+    show c++ score in descending order
+    show top three student of c++ and java
 
 <br><br>
 
