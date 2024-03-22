@@ -122,13 +122,17 @@ Choose one menu (1~6): 2
 
 <br/><br/>
 </pre>
+
 # Menu 3 output:
+<pre>
+<br/><br/>
 Choose one menu (1~6): 3
 ***** Menu 3 Result *****
 -------------------------
 Average of C++: 83.00
 Average of Java: 83.33
-
+<pre>
+<br/><br/>
 # Menu 4 output:
 <pre>
 <br/><br/>
