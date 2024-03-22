@@ -131,8 +131,10 @@ Choose one menu (1~6): 3
 -------------------------
 Average of C++: 83.00
 Average of Java: 83.33
-<pre>
 <br/><br/>
+<pre>
+
+  
 # Menu 4 output:
 <pre>
 <br/><br/>
