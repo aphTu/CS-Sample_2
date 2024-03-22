@@ -8,8 +8,9 @@ App read the student name, id, and score in specific subject
     - show top three student of c++ and java
 
 <br><br>
+![image](https://github.com/aphTu/Read-Student-txt-file-and-Sort-them/assets/160196873/8deeccf5-3e1a-484d-b025-e1efbec0a17e)
 
-
+<br><br>
 
 <br><br>
 # Menu output:
@@ -132,7 +133,7 @@ Choose one menu (1~6): 3
 Average of C++: 83.00
 Average of Java: 83.33
 <br/><br/>
-<pre>
+</pre>
 
   
 # Menu 4 output:
@@ -178,4 +179,45 @@ Choose one menu (1~6): 4
 50     Sandy 69 78
  7    Eunice 66 79
  <br/><br/>
+</pre>
+
+# Menu 5 output:
+<pre>
+<br/><br/>
+Choose one menu (1~6): 5
+***** Menu 5 Result *****
+-------------------------
+**** C++ Rank ****
+[ 97 (2 students) ]
+   <27>     Cyril
+   <51>     Chris
+[ 96 (4 students) ]
+   <8>    Delmar
+   <31>     Brian
+   <34>     Bobbi
+   <36>      Paul
+[ 93 (1 students) ]
+   <55>       Sue
+**** Java Rank ****
+[ 97 (1 students) ]
+   <31>     Brian
+[ 95 (1 students) ]
+   <54>    Oliver
+[ 93 (2 students) ]
+   <30>      Jake
+   <48>      Jake
+
+-------------------------------------------
+                  Menu
+-------------------------------------------
+1. Show the original data:
+2. Show data in ascending order of ID
+3. Show the average of each course
+4. Show C++ score in descendng order
+5. Show top three students of C++ and Java
+6. Exit
+
+Choose one menu (1~6): 6
+Exited the program
+<br/><br/>
 </pre>
